@@ -1,5 +1,10 @@
 A simple blogging platform API built using Node.js, Express, MongoDB, and JWT authentication. The API provides user registration/login, protected routes, CRUD operations for blog posts, and comment management.
-
+# Install dependencies:
+npm install
+# Start the server:
+npm run dev
+# API will run on:
+http://localhost:5000/api 
 # Features
 User Authentication
 
